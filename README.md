@@ -6,7 +6,7 @@
 ## Project Overview  
 This project aims to forecast daily Blizzard sales at the **Dairy Queen Grill & Chill** location in Worcester, MA, using a hybrid machine learning model.  
 
-- **Training Period:** January 1, 2022 – June 30, 2025  
+- **Training Period:** January 1, 2022 – December 31, 2024  
 - **Validation Period:** January 1, 2025 – June 30, 2025  
 - **Forecasting Period:** July 1, 2025 – August 1, 2026  
 
